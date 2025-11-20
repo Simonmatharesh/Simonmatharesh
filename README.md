@@ -17,13 +17,12 @@ I focus on developing AI projects and exploring solutions using programming and 
 - [https://github.com/Simonmatharesh/JarvisAI) - Personal AI assistant project  
 - [https://github.com/Simonmatharesh/CelesteDoha) - Hotel Kiosk System  
 
-*(Add more projects as needed with links and short descriptions)*
 
 ---
 
 ## 📈 GitHub Stats
 
-![Simon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonMathewHaresh&show_icons=true&theme=radical&count_private=true)
+![Simon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Simonmatharesh&show_icons=true&theme=radical&count_private=true)
 
 ---
 
