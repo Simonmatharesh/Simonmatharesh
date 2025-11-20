@@ -1,9 +1,3 @@
-# Hi, I'm Simon 👋
-### I work with AI and enjoy building projects using Python, Java, and cloud technologies.
-
-I focus on developing AI projects and exploring solutions using programming and cloud platforms. I enjoy experimenting with new tools, learning, and contributing to open-source projects.
-
----
 
 ## 🔧 Skills
 ### **Programming Languages**
