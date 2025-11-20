@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Simon 👋
+### I work with AI and enjoy building projects using Python, Java, and cloud technologies.
 
-<!--
-**Simonmatharesh/Simonmatharesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on developing AI projects and exploring solutions using programming and cloud platforms. I enjoy experimenting with new tools, learning, and contributing to open-source projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+**Languages:** Python | Java | C# | C++ | Kotlin | JavaScript | Node.js | HTML | CSS | SQL | MongoDB  
+**Cloud & Tools:** AWS | Google Cloud | Git | GitHub  
+**Areas of Work:** Artificial Intelligence | Machine Learning | Data Science | Cloud Computing | Backend Development  
+
+---
+
+## 📂 Projects
+- [https://github.com/Simonmatharesh/JarvisAI) - Personal AI assistant project  
+- [https://github.com/Simonmatharesh/CelesteDoha) - Hotel Kiosk System  
+
+*(Add more projects as needed with links and short descriptions)*
+
+---
+
+## 📈 GitHub Stats
+
+![Simon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonMathewHaresh&show_icons=true&theme=radical&count_private=true)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simon-mathew-haresh-1b68a4271/)
