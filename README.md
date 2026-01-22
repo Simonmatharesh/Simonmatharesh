@@ -1,117 +1,114 @@
-👋 Hi, I'm Simon Mathew Haresh
-<div align="center">
-Show Image
+# 👋 Hi, I'm Simon Mathew Haresh
 
-</div> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Simonmatharesh&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" /> </p>
-🚀 Featured Projects
-<table> <tr> <td width="50%">
-🤖 Jarvis AI
-AI-Powered Analytics Dashboard
+AI Engineer & Full-Stack Developer | Doha, Qatar
 
-🔹 Auto-generates interactive charts from datasets using OpenAI/Gemini APIs
-🔹 Vector DB (Chroma) for intelligent context retrieval & embeddings
-🔹 Bilingual support (Arabic/English) with gTTS text-to-speech
-🔹 Drill-down analytics with caching optimization
+---
 
-Tech Stack:
-Python Dash ChromaDB OpenAI API Gemini API NLP Vector Embeddings
+## 🚀 Featured Projects
 
-</td> <td width="50%">
-💬 First Finance AI Chatbot
-Shariah-Compliant Finance Assistant
+### 🤖 Jarvis AI – AI-Powered Analytics Dashboard
+- Auto-generates interactive charts from datasets using OpenAI/Gemini APIs  
+- Vector DB (Chroma) for intelligent context retrieval & embeddings  
+- Bilingual support (Arabic/English) with gTTS text-to-speech  
+- Drill-down analytics with caching optimization  
 
-🔹 RAG-powered chatbot using semantic search & embeddings
-🔹 Gemini 2.0 + Knowledge Base for finance Q&A
-🔹 Session memory & context-aware responses
-🔹 Bilingual (Arabic/English) with real-time language switching
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)  
+![Dash](https://img.shields.io/badge/Dash-0.0.0-darkblue)  
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0.0.0-lightgrey)  
+![OpenAI](https://img.shields.io/badge/OpenAI-0.0.0-lightgrey)  
+![Gemini API](https://img.shields.io/badge/Gemini_API-0.0.0-lightgrey)  
+![NLP](https://img.shields.io/badge/NLP-0.0.0-lightgrey)  
 
-Tech Stack:
-Node.js React Express Gemini API Transformers.js Vector Search
+---
 
-</td> </tr> <tr> <td width="50%">
-🏨 Celeste Doha
-Hotel Self-Service Kiosk System
+### 💬 First Finance AI Chatbot – Shariah-Compliant Finance Assistant
+- RAG-powered chatbot using semantic search & embeddings  
+- Gemini 2.0 + Knowledge Base for finance Q&A  
+- Session memory & context-aware responses  
+- Bilingual (Arabic/English) with real-time language switching  
 
-🔹 Interactive check-in/check-out with payment integration
-🔹 Multi-language interface for hotel guests
-🔹 Real-time room availability & booking management
+**Tech Stack:**  
+![Node.js](https://img.shields.io/badge/Node.js-16-green?logo=node.js)  
+![React](https://img.shields.io/badge/React-18-blue?logo=react)  
+![Express](https://img.shields.io/badge/Express-4.18-lightgrey)  
+![Transformers.js](https://img.shields.io/badge/Transformers.js-0.0.0-lightgrey)  
+![Vector Search](https://img.shields.io/badge/Vector_Search-0.0.0-lightgrey)  
 
-Tech Stack:
-JavaScript Node.js MongoDB Express REST APIs
+---
 
-</td> <td width="50%">
-📊 More Projects Coming Soon...
-Building innovative solutions in AI, NLP, and Full-Stack Development
+### 🏨 Celeste Doha Hotel – Self-Service Kiosk System
+- Interactive check-in/check-out with payment integration  
+- Multi-language interface for hotel guests  
+- Real-time room availability & booking management  
 
-<p align="center"> <a href="https://github.com/Simonmatharesh?tab=repositories"> <img src="https://img.shields.io/badge/View_All_Projects-2E9EF7?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> </td> </tr> </table>
-💻 Tech Stack
-<details open> <summary><b>🔥 Core Languages</b></summary> <br>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+**Tech Stack:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)  
+![Node.js](https://img.shields.io/badge/Node.js-16-green?logo=node.js)  
+![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green?logo=mongodb)  
+![Express](https://img.shields.io/badge/Express-4.18-lightgrey)  
+![REST API](https://img.shields.io/badge/REST_API-0.0.0-lightgrey)  
 
-</details> <details open> <summary><b>🤖 AI & Machine Learning</b></summary> <br>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+---
 
-</details> <details open> <summary><b>🗄️ Databases & Vector Stores</b></summary> <br>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+## 💻 Tech Stack
 
-</details> <details open> <summary><b>🌐 Web Development</b></summary> <br>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+### 🔥 Core Languages
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![Java](https://img.shields.io/badge/Java-17-red?logo=java)
+![C++](https://img.shields.io/badge/C++-17-blue?logo=c%2B%2B)
+![SQL](https://img.shields.io/badge/SQL-0.0.0-lightgrey)
 
-</details> <details open> <summary><b>📊 Data Science & Analytics</b></summary> <br>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+### 🤖 AI & Machine Learning
+![NLP](https://img.shields.io/badge/NLP-0.0.0-lightgrey)
+![LLMs](https://img.shields.io/badge/LLMs-0.0.0-lightgrey)
+![RAG](https://img.shields.io/badge/RAG-0.0.0-lightgrey)
+![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-0.0.0-lightgrey)
+![OpenAI](https://img.shields.io/badge/OpenAI-0.0.0-lightgrey)
+![Gemini API](https://img.shields.io/badge/Gemini_API-0.0.0-lightgrey)
 
-</details> <details open> <summary><b>☁️ Cloud & DevOps</b></summary> <br>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+### 🗄️ Databases & Vector Stores
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0.0.0-lightgrey)
+![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green?logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-7.0-orange?logo=redis)
 
-</details>
-📈 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Simonmatharesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simonmatharesh&layout=compact&langs_count=8&theme=tokyonight"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simonmatharesh&theme=tokyonight" alt="GitHub Streak" /> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Simonmatharesh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" /> </div>
-💼 What I Bring to the Table
-python
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-16-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express-4.18-lightgrey)
+![Dash](https://img.shields.io/badge/Dash-0.0.0-darkblue)
+![REST API](https://img.shields.io/badge/REST_API-0.0.0-lightgrey)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-0.0.0-lightgrey)
+
+### 📊 Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-1.5-blue?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-1.25-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8-darkblue)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12-blue)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-0.0.0-orange?logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0.0.0-blue?logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-24-blue?logo=docker)
+
+---
+
+## 📈 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=Simonmatharesh&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Simonmatharesh)
+
+---
+
+## 💼 What I Bring to the Table
+
+```python
 class SimonMathewHaresh:
     def __init__(self):
         self.role = "AI Engineer & Full-Stack Developer"
         self.location = "Doha, Qatar"
-        
+
     def skills(self):
         return {
             "AI/ML": ["NLP", "Vector Databases", "RAG", "LLMs", "Embeddings"],
@@ -121,7 +118,7 @@ class SimonMathewHaresh:
             "Cloud": ["AWS", "Google Cloud", "Docker"],
             "Languages": ["Python", "JavaScript", "Java", "C++", "SQL"]
         }
-    
+
     def current_focus(self):
         return [
             "Building production-ready AI chatbots",
@@ -129,23 +126,3 @@ class SimonMathewHaresh:
             "Scalable full-stack applications",
             "Real-time analytics dashboards"
         ]
-🎯 Key Achievements
-✨ Built AI-powered analytics dashboard with auto-chart generation using OpenAI/Gemini APIs
-✨ Implemented RAG system using ChromaDB for intelligent context retrieval
-✨ Developed bilingual chatbot (Arabic/English) with session memory & semantic search
-✨ Created hotel kiosk system with real-time booking & payment integration
-✨ Optimized vector embeddings for fast similarity search & caching
-
-📫 Let's Connect
-<div align="center">
-Show Image
-Show Image
-Show Image
-
-</div>
-<div align="center">
-💡 "Building intelligent systems that make a difference"
-Show Image
-
-</div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </div>
