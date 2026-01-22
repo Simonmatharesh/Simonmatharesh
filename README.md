@@ -1,44 +1,151 @@
+👋 Hi, I'm Simon Mathew Haresh
+<div align="center">
+Show Image
 
-## 🔧 Skills
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+</div> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Simonmatharesh&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" /> </p>
+🚀 Featured Projects
+<table> <tr> <td width="50%">
+🤖 Jarvis AI
+AI-Powered Analytics Dashboard
 
-### **Libraries & Frameworks**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3498DB?style=for-the-badge&logo=seaborn&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-9B59B6?style=for-the-badge&logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-2E3A59?style=for-the-badge&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+🔹 Auto-generates interactive charts from datasets using OpenAI/Gemini APIs
+🔹 Vector DB (Chroma) for intelligent context retrieval & embeddings
+🔹 Bilingual support (Arabic/English) with gTTS text-to-speech
+🔹 Drill-down analytics with caching optimization
 
-### **Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Tech Stack:
+Python Dash ChromaDB OpenAI API Gemini API NLP Vector Embeddings
 
-### **Databases**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+</td> <td width="50%">
+💬 First Finance AI Chatbot
+Shariah-Compliant Finance Assistant
 
-### **Cloud & Tools**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
----
+🔹 RAG-powered chatbot using semantic search & embeddings
+🔹 Gemini 2.0 + Knowledge Base for finance Q&A
+🔹 Session memory & context-aware responses
+🔹 Bilingual (Arabic/English) with real-time language switching
 
-## 📂 Projects
-- [https://github.com/Simonmatharesh/JarvisAI) - Personal AI assistant project  
-- [https://github.com/Simonmatharesh/CelesteDoha) - Hotel Kiosk System  
----
+Tech Stack:
+Node.js React Express Gemini API Transformers.js Vector Search
 
-## 📫 Connect with Me
+</td> </tr> <tr> <td width="50%">
+🏨 Celeste Doha
+Hotel Self-Service Kiosk System
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simon-mathew-haresh-1b68a4271/)
+🔹 Interactive check-in/check-out with payment integration
+🔹 Multi-language interface for hotel guests
+🔹 Real-time room availability & booking management
+
+Tech Stack:
+JavaScript Node.js MongoDB Express REST APIs
+
+</td> <td width="50%">
+📊 More Projects Coming Soon...
+Building innovative solutions in AI, NLP, and Full-Stack Development
+
+<p align="center"> <a href="https://github.com/Simonmatharesh?tab=repositories"> <img src="https://img.shields.io/badge/View_All_Projects-2E9EF7?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> </td> </tr> </table>
+💻 Tech Stack
+<details open> <summary><b>🔥 Core Languages</b></summary> <br>
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+</details> <details open> <summary><b>🤖 AI & Machine Learning</b></summary> <br>
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+</details> <details open> <summary><b>🗄️ Databases & Vector Stores</b></summary> <br>
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+</details> <details open> <summary><b>🌐 Web Development</b></summary> <br>
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+</details> <details open> <summary><b>📊 Data Science & Analytics</b></summary> <br>
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+</details> <details open> <summary><b>☁️ Cloud & DevOps</b></summary> <br>
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+</details>
+📈 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Simonmatharesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simonmatharesh&layout=compact&langs_count=8&theme=tokyonight"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simonmatharesh&theme=tokyonight" alt="GitHub Streak" /> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Simonmatharesh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" /> </div>
+💼 What I Bring to the Table
+python
+class SimonMathewHaresh:
+    def __init__(self):
+        self.role = "AI Engineer & Full-Stack Developer"
+        self.location = "Doha, Qatar"
+        
+    def skills(self):
+        return {
+            "AI/ML": ["NLP", "Vector Databases", "RAG", "LLMs", "Embeddings"],
+            "Backend": ["Node.js", "Express", "Python", "FastAPI", "REST APIs"],
+            "Frontend": ["React", "JavaScript", "Dash", "Responsive Design"],
+            "Databases": ["ChromaDB", "MongoDB", "PostgreSQL", "Redis"],
+            "Cloud": ["AWS", "Google Cloud", "Docker"],
+            "Languages": ["Python", "JavaScript", "Java", "C++", "SQL"]
+        }
+    
+    def current_focus(self):
+        return [
+            "Building production-ready AI chatbots",
+            "RAG systems with vector databases",
+            "Scalable full-stack applications",
+            "Real-time analytics dashboards"
+        ]
+🎯 Key Achievements
+✨ Built AI-powered analytics dashboard with auto-chart generation using OpenAI/Gemini APIs
+✨ Implemented RAG system using ChromaDB for intelligent context retrieval
+✨ Developed bilingual chatbot (Arabic/English) with session memory & semantic search
+✨ Created hotel kiosk system with real-time booking & payment integration
+✨ Optimized vector embeddings for fast similarity search & caching
+
+📫 Let's Connect
+<div align="center">
+Show Image
+Show Image
+Show Image
+
+</div>
+<div align="center">
+💡 "Building intelligent systems that make a difference"
+Show Image
+
+</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </div>
